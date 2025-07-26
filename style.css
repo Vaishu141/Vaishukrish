@@ -1,0 +1,61 @@
+.container {
+  border: 2px solid black;
+  margin: 10px;
+  width: 80vw;
+  padding: 10px;
+  height: 100vh;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.card-para {
+  font-size: x-small;
+  padding: 10px;
+}
+.buy-btn {
+  background-color: black;
+  color: yellow;
+}
+
+.later-btn {
+  background-color: black;
+  color: crimson;
+}
+
+.btn {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+#book {
+  background-color: aqua;
+}
+#software {
+  background-color: aquamarine;
+}
+/* //un visisted */
+a:link {
+  color: violet;
+}
+
+a:visited {
+  color: maroon;
+}
+
+a:hover {
+  color: chocolate;
+}
+
+a:active {
+  color: green;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
